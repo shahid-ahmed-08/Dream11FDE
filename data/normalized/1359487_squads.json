@@ -1,0 +1,318 @@
+{
+  "match_id": "1359487",
+  "teams": {
+    "Gujarat Titans": {
+      "name": "Gujarat Titans",
+      "short_name": "GT",
+      "captain": "Rashid Khan",
+      "wicketkeeper": "WP Saha",
+      "players": [
+        {
+          "name": "WP Saha",
+          "full_name": "Wriddhiman Saha",
+          "cricsheet_id": "fe11caa6",
+          "team": "Gujarat Titans",
+          "role": "Wicketkeeper",
+          "is_playing_xi": true,
+          "is_impact_player": false,
+          "is_substitute": false,
+          "notes": "Starting primary wicketkeeper, kept 20 overs"
+        },
+        {
+          "name": "Shubman Gill",
+          "full_name": "Shubman Gill",
+          "cricsheet_id": "b4b99816",
+          "team": "Gujarat Titans",
+          "role": "Batter",
+          "is_playing_xi": true,
+          "is_impact_player": false,
+          "is_substitute": false,
+          "notes": "Opening specialist batter"
+        },
+        {
+          "name": "B Sai Sudharsan",
+          "full_name": "Bharath Sai Sudharsan",
+          "cricsheet_id": "d5130a30",
+          "team": "Gujarat Titans",
+          "role": "Batter",
+          "is_playing_xi": true,
+          "is_impact_player": false,
+          "is_substitute": false,
+          "notes": "Top-order batter; replaced by Impact Player J Little for 2nd innings"
+        },
+        {
+          "name": "A Manohar",
+          "full_name": "Abhinav Manohar",
+          "cricsheet_id": "0890552f",
+          "team": "Gujarat Titans",
+          "role": "Batter",
+          "is_playing_xi": true,
+          "is_impact_player": false,
+          "is_substitute": false,
+          "notes": "Middle-order specialist batter"
+        },
+        {
+          "name": "V Shankar",
+          "full_name": "Vijay Shankar",
+          "cricsheet_id": "0994d0ae",
+          "team": "Gujarat Titans",
+          "role": "All-Rounder",
+          "is_playing_xi": true,
+          "is_impact_player": false,
+          "is_substitute": false,
+          "notes": "Fast-medium batting all-rounder (batted 5, 63* off 24; did not bowl)"
+        },
+        {
+          "name": "DA Miller",
+          "full_name": "David Miller",
+          "cricsheet_id": "d67d5f00",
+          "team": "Gujarat Titans",
+          "role": "Batter",
+          "is_playing_xi": true,
+          "is_impact_player": false,
+          "is_substitute": false,
+          "notes": "Middle-order specialist batter/finisher"
+        },
+        {
+          "name": "R Tewatia",
+          "full_name": "Rahul Tewatia",
+          "cricsheet_id": "39a2dfa8",
+          "team": "Gujarat Titans",
+          "role": "All-Rounder",
+          "is_playing_xi": true,
+          "is_impact_player": false,
+          "is_substitute": false,
+          "notes": "Leg-spin bowling all-rounder / finisher"
+        },
+        {
+          "name": "Rashid Khan",
+          "full_name": "Rashid Khan Arman",
+          "cricsheet_id": "5f547c8b",
+          "team": "Gujarat Titans",
+          "role": "All-Rounder",
+          "is_playing_xi": true,
+          "is_impact_player": false,
+          "is_substitute": false,
+          "notes": "Captain, leg-spin all-rounder (4 overs, 3/37 hat-trick)"
+        },
+        {
+          "name": "AS Joseph",
+          "full_name": "Alzarri Shaheim Joseph",
+          "cricsheet_id": "b0946605",
+          "team": "Gujarat Titans",
+          "role": "Bowler",
+          "is_playing_xi": true,
+          "is_impact_player": false,
+          "is_substitute": false,
+          "notes": "Specialist fast bowler (bowled 4 overs)"
+        },
+        {
+          "name": "Mohammed Shami",
+          "full_name": "Mohammed Shami Ahmed",
+          "cricsheet_id": "8cf9814c",
+          "team": "Gujarat Titans",
+          "role": "Bowler",
+          "is_playing_xi": true,
+          "is_impact_player": false,
+          "is_substitute": false,
+          "notes": "Specialist fast bowler (bowled 4 overs)"
+        },
+        {
+          "name": "Yash Dayal",
+          "full_name": "Yash Dayal",
+          "cricsheet_id": "7210d461",
+          "team": "Gujarat Titans",
+          "role": "Bowler",
+          "is_playing_xi": true,
+          "is_impact_player": false,
+          "is_substitute": false,
+          "notes": "Specialist fast-medium bowler (bowled 4 overs)"
+        },
+        {
+          "name": "J Little",
+          "full_name": "Joshua Brian Little",
+          "cricsheet_id": "9061a703",
+          "team": "Gujarat Titans",
+          "role": "Bowler",
+          "is_playing_xi": false,
+          "is_impact_player": true,
+          "is_substitute": false,
+          "notes": "Impact Player (substituted for B Sai Sudharsan in Innings 2; bowled 4 overs)"
+        },
+        {
+          "name": "KS Bharat",
+          "full_name": "Kona Srikar Bharat",
+          "cricsheet_id": "44a89551",
+          "team": "Gujarat Titans",
+          "role": "Wicketkeeper",
+          "is_playing_xi": false,
+          "is_impact_player": false,
+          "is_substitute": true,
+          "notes": "Substitute wicketkeeper/fielder (took catch of Andre Russell on 16.1)"
+        },
+        {
+          "name": "J Yadav",
+          "full_name": "Jayant Yadav",
+          "cricsheet_id": "81049310",
+          "team": "Gujarat Titans",
+          "role": "All-Rounder",
+          "is_playing_xi": false,
+          "is_impact_player": false,
+          "is_substitute": true,
+          "notes": "Substitute fielder (took catch of Sunil Narine on 16.2)"
+        }
+      ]
+    },
+    "Kolkata Knight Riders": {
+      "name": "Kolkata Knight Riders",
+      "short_name": "KKR",
+      "captain": "N Rana",
+      "wicketkeeper": "Rahmanullah Gurbaz",
+      "players": [
+        {
+          "name": "Rahmanullah Gurbaz",
+          "full_name": "Rahmanullah Gurbaz",
+          "cricsheet_id": "0bacade8",
+          "team": "Kolkata Knight Riders",
+          "role": "Wicketkeeper",
+          "is_playing_xi": true,
+          "is_impact_player": false,
+          "is_substitute": false,
+          "notes": "Starting primary wicketkeeper, kept 20 overs"
+        },
+        {
+          "name": "N Jagadeesan",
+          "full_name": "Narayan Jagadeesan",
+          "cricsheet_id": "bd54eef5",
+          "team": "Kolkata Knight Riders",
+          "role": "Wicketkeeper",
+          "is_playing_xi": true,
+          "is_impact_player": false,
+          "is_substitute": false,
+          "notes": "Wicketkeeper-batter (played as top-order batter; took catch of Saha)"
+        },
+        {
+          "name": "VR Iyer",
+          "full_name": "Venkatesh Iyer",
+          "cricsheet_id": "a24be938",
+          "team": "Kolkata Knight Riders",
+          "role": "All-Rounder",
+          "is_playing_xi": false,
+          "is_impact_player": true,
+          "is_substitute": false,
+          "notes": "Impact Player (All-rounder; subbed in for Suyash Sharma in Innings 2; scored 83 off 40; did not bowl)"
+        },
+        {
+          "name": "N Rana",
+          "full_name": "Nitish Rana",
+          "cricsheet_id": "fb2d1dda",
+          "team": "Kolkata Knight Riders",
+          "role": "Batter",
+          "is_playing_xi": true,
+          "is_impact_player": false,
+          "is_substitute": false,
+          "notes": "Captain, middle-order specialist batter (did not bowl)"
+        },
+        {
+          "name": "RK Singh",
+          "full_name": "Rinku Singh",
+          "cricsheet_id": "0a509d6b",
+          "team": "Kolkata Knight Riders",
+          "role": "Batter",
+          "is_playing_xi": true,
+          "is_impact_player": false,
+          "is_substitute": false,
+          "notes": "Middle-order specialist batter/finisher (48* off 21)"
+        },
+        {
+          "name": "AD Russell",
+          "full_name": "Andre Dwayne Russell",
+          "cricsheet_id": "bbd41817",
+          "team": "Kolkata Knight Riders",
+          "role": "All-Rounder",
+          "is_playing_xi": true,
+          "is_impact_player": false,
+          "is_substitute": false,
+          "notes": "Fast bowling all-rounder (batted 6; did not bowl in this match)"
+        },
+        {
+          "name": "SP Narine",
+          "full_name": "Sunil Philip Narine",
+          "cricsheet_id": "9d430b40",
+          "team": "Kolkata Knight Riders",
+          "role": "All-Rounder",
+          "is_playing_xi": true,
+          "is_impact_player": false,
+          "is_substitute": false,
+          "notes": "Spin bowling all-rounder (bowled 4 overs, 3/33, batted 7)"
+        },
+        {
+          "name": "SN Thakur",
+          "full_name": "Shardul Narendra Thakur",
+          "cricsheet_id": "1abb78f8",
+          "team": "Kolkata Knight Riders",
+          "role": "All-Rounder",
+          "is_playing_xi": true,
+          "is_impact_player": false,
+          "is_substitute": false,
+          "notes": "Fast bowling all-rounder (bowled 3 overs, batted 8)"
+        },
+        {
+          "name": "UT Yadav",
+          "full_name": "Umesh Kumar Yadav",
+          "cricsheet_id": "cc1e8c68",
+          "team": "Kolkata Knight Riders",
+          "role": "Bowler",
+          "is_playing_xi": true,
+          "is_impact_player": false,
+          "is_substitute": false,
+          "notes": "Specialist fast bowler (bowled 4 overs, batted 9)"
+        },
+        {
+          "name": "LH Ferguson",
+          "full_name": "Lachlan Hammond Ferguson",
+          "cricsheet_id": "2f9d0389",
+          "team": "Kolkata Knight Riders",
+          "role": "Bowler",
+          "is_playing_xi": true,
+          "is_impact_player": false,
+          "is_substitute": false,
+          "notes": "Specialist fast bowler (bowled 2 overs)"
+        },
+        {
+          "name": "CV Varun",
+          "full_name": "Varun Chakravarthy",
+          "cricsheet_id": "5b7ab5a9",
+          "team": "Kolkata Knight Riders",
+          "role": "Bowler",
+          "is_playing_xi": true,
+          "is_impact_player": false,
+          "is_substitute": false,
+          "notes": "Specialist mystery spinner (bowled 3 overs)"
+        },
+        {
+          "name": "Suyash Sharma",
+          "full_name": "Suyash Sharma",
+          "cricsheet_id": "9440ef41",
+          "team": "Kolkata Knight Riders",
+          "role": "Bowler",
+          "is_playing_xi": true,
+          "is_impact_player": false,
+          "is_substitute": false,
+          "notes": "Specialist leg-spinner (bowled 4 overs, 1/35; replaced by Impact Player VR Iyer)"
+        },
+        {
+          "name": "AS Roy",
+          "full_name": "Anukul Sudhakar Roy",
+          "cricsheet_id": "e4cdf230",
+          "team": "Kolkata Knight Riders",
+          "role": "All-Rounder",
+          "is_playing_xi": false,
+          "is_impact_player": false,
+          "is_substitute": true,
+          "notes": "Substitute fielder (took catch of Sai Sudharsan on 17.3)"
+        }
+      ]
+    }
+  }
+}

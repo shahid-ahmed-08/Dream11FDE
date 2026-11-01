@@ -1,0 +1,14 @@
+{
+  "min_points_delta": 5.0,
+  "milestone_runs": [30, 50, 100],
+  "milestone_wickets": [3, 4, 5],
+  "hattrick_deliveries": ["inn2_d98", "inn2_d99", "inn2_d100"],
+  "always_include_boundary_six": true,
+  "always_include_wickets": true,
+  "always_include_captain_vc": true,
+  "captain_vc_min_runs": 4,
+  "gemini_model": "gemini-2.5-flash",
+  "ai_timeout_seconds": 10.0,
+  "ai_enabled": true
+}
+

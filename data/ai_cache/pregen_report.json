@@ -1,0 +1,318 @@
+{
+  "safe_pick": {
+    "team_name": "Safe Pick",
+    "captain": "Shubman Gill",
+    "vice_captain": "WP Saha",
+    "total_key_moments": 37,
+    "real_ai_calls": 0,
+    "fallback_calls": 37,
+    "final_points": 543.0,
+    "final_rank": 3065,
+    "elapsed_seconds": 0.33,
+    "sample_explanations": [
+      {
+        "ball": "1.2",
+        "innings": 1,
+        "event_id": "inn1_d8",
+        "is_hattrick": false,
+        "reasons": [
+          "captain/vc boundary: WP Saha",
+          "points delta +7.5"
+        ],
+        "explanation_en": "Key moment: Over 1.2: WP Saha vs SN Thakur — 4 run(s). Your team's points changed by +7.5, rank dropped.",
+        "explanation_hi": "Key moment: Over 1.2: WP Saha vs SN Thakur — 4 run(s). Team ke points +7.5 se change hue, rank dropped.",
+        "watch_next_en": "Keep an eye on: WP Saha needs 25.0 more runs for 30-run bonus.",
+        "watch_next_hi": "Dhyan rakhein: WP Saha needs 25.0 more runs for 30-run bonus.",
+        "is_fallback": true
+      },
+      {
+        "ball": "1.7",
+        "innings": 1,
+        "event_id": "inn1_d13",
+        "is_hattrick": false,
+        "reasons": [
+          "captain/vc boundary: Shubman Gill",
+          "points delta +10.0"
+        ],
+        "explanation_en": "Key moment: Over 1.7: Shubman Gill vs SN Thakur — 4 run(s). Your team's points changed by +10.0, rank improved.",
+        "explanation_hi": "Key moment: Over 1.7: Shubman Gill vs SN Thakur — 4 run(s). Team ke points +10.0 se change hue, rank improved.",
+        "watch_next_en": "Keep an eye on: WP Saha needs 24.0 more runs for 30-run bonus.",
+        "watch_next_hi": "Dhyan rakhein: WP Saha needs 24.0 more runs for 30-run bonus.",
+        "is_fallback": true
+      },
+      {
+        "ball": "16.1",
+        "innings": 2,
+        "event_id": "inn2_d98",
+        "is_hattrick": true,
+        "reasons": [
+          "wicket: AD Russell dismissed",
+          "hat-trick delivery",
+          "points delta +25.0"
+        ],
+        "explanation_en": "Hat-trick ball! Your team's points moved by +25.0 on this delivery. Your simulated rank improved by 646 places.",
+        "explanation_hi": "Hat-trick ball! Aapki team ke points +25.0 se badal gaye. Aapki simulated rank improved by 646 places.",
+        "watch_next_en": "Keep an eye on: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "watch_next_hi": "Dhyan rakhein: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "is_fallback": true
+      },
+      {
+        "ball": "16.2",
+        "innings": 2,
+        "event_id": "inn2_d99",
+        "is_hattrick": true,
+        "reasons": [
+          "wicket: SP Narine dismissed",
+          "hat-trick delivery",
+          "points delta +25.0"
+        ],
+        "explanation_en": "Hat-trick ball! Your team's points moved by +25.0 on this delivery. Your simulated rank improved by 633 places.",
+        "explanation_hi": "Hat-trick ball! Aapki team ke points +25.0 se badal gaye. Aapki simulated rank improved by 633 places.",
+        "watch_next_en": "Keep an eye on: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "watch_next_hi": "Dhyan rakhein: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "is_fallback": true
+      },
+      {
+        "ball": "19.3",
+        "innings": 1,
+        "event_id": "inn1_d124",
+        "is_hattrick": false,
+        "reasons": [
+          "six by V Shankar",
+          "batting milestone: V Shankar reached 50 runs",
+          "points delta +8.0"
+        ],
+        "explanation_en": "Chhakka! Over 19.3 moved your team by +8.0 points. Rank improved.",
+        "explanation_hi": "Chhakka mara gaya! Team ke points +8.0 se change hue. Rank improved by 102 places.",
+        "watch_next_en": "Keep an eye on: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "watch_next_hi": "Dhyan rakhein: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "is_fallback": true
+      },
+      {
+        "ball": "19.4",
+        "innings": 1,
+        "event_id": "inn1_d125",
+        "is_hattrick": false,
+        "reasons": [
+          "six by V Shankar",
+          "points delta +6.0"
+        ],
+        "explanation_en": "Chhakka! Over 19.4 moved your team by +6.0 points. Rank improved.",
+        "explanation_hi": "Chhakka mara gaya! Team ke points +6.0 se change hue. Rank improved by 69 places.",
+        "watch_next_en": "Keep an eye on: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "watch_next_hi": "Dhyan rakhein: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "is_fallback": true
+      }
+    ]
+  },
+  "differential": {
+    "team_name": "Differential",
+    "captain": "Rashid Khan",
+    "vice_captain": "SP Narine",
+    "total_key_moments": 43,
+    "real_ai_calls": 0,
+    "fallback_calls": 43,
+    "final_points": 674.5,
+    "final_rank": 306,
+    "elapsed_seconds": 0.31,
+    "sample_explanations": [
+      {
+        "ball": "1.2",
+        "innings": 1,
+        "event_id": "inn1_d8",
+        "is_hattrick": false,
+        "reasons": [
+          "points delta +5.0"
+        ],
+        "explanation_en": "Key moment: Over 1.2: WP Saha vs SN Thakur — 4 run(s). Your team's points changed by +5.0, rank improved.",
+        "explanation_hi": "Key moment: Over 1.2: WP Saha vs SN Thakur — 4 run(s). Team ke points +5.0 se change hue, rank improved.",
+        "watch_next_en": "Keep an eye on: WP Saha needs 25.0 more runs for 30-run bonus.",
+        "watch_next_hi": "Dhyan rakhein: WP Saha needs 25.0 more runs for 30-run bonus.",
+        "is_fallback": true
+      },
+      {
+        "ball": "1.7",
+        "innings": 1,
+        "event_id": "inn1_d13",
+        "is_hattrick": false,
+        "reasons": [
+          "points delta +5.0"
+        ],
+        "explanation_en": "Key moment: Over 1.7: Shubman Gill vs SN Thakur — 4 run(s). Your team's points changed by +5.0, rank dropped.",
+        "explanation_hi": "Key moment: Over 1.7: Shubman Gill vs SN Thakur — 4 run(s). Team ke points +5.0 se change hue, rank dropped.",
+        "watch_next_en": "Keep an eye on: WP Saha needs 24.0 more runs for 30-run bonus.",
+        "watch_next_hi": "Dhyan rakhein: WP Saha needs 24.0 more runs for 30-run bonus.",
+        "is_fallback": true
+      },
+      {
+        "ball": "16.1",
+        "innings": 2,
+        "event_id": "inn2_d98",
+        "is_hattrick": true,
+        "reasons": [
+          "wicket: AD Russell dismissed",
+          "hat-trick delivery",
+          "captain/vc wicket: Rashid Khan",
+          "points delta +50.0"
+        ],
+        "explanation_en": "Hat-trick ball! Your team's points moved by +50.0 on this delivery. Your simulated rank improved by 1707 places.",
+        "explanation_hi": "Hat-trick ball! Aapki team ke points +50.0 se badal gaye. Aapki simulated rank improved by 1707 places.",
+        "watch_next_en": "Keep an eye on: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "watch_next_hi": "Dhyan rakhein: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "is_fallback": true
+      },
+      {
+        "ball": "16.2",
+        "innings": 2,
+        "event_id": "inn2_d99",
+        "is_hattrick": true,
+        "reasons": [
+          "wicket: SP Narine dismissed",
+          "hat-trick delivery",
+          "captain/vc wicket: Rashid Khan",
+          "points delta +51.0"
+        ],
+        "explanation_en": "Hat-trick ball! Your team's points moved by +51.0 on this delivery. Your simulated rank improved by 1347 places.",
+        "explanation_hi": "Hat-trick ball! Aapki team ke points +51.0 se badal gaye. Aapki simulated rank improved by 1347 places.",
+        "watch_next_en": "Keep an eye on: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "watch_next_hi": "Dhyan rakhein: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "is_fallback": true
+      },
+      {
+        "ball": "19.3",
+        "innings": 1,
+        "event_id": "inn1_d124",
+        "is_hattrick": false,
+        "reasons": [
+          "six by V Shankar",
+          "batting milestone: V Shankar reached 50 runs",
+          "points delta +12.0"
+        ],
+        "explanation_en": "Chhakka! Over 19.3 moved your team by +12.0 points. Rank improved.",
+        "explanation_hi": "Chhakka mara gaya! Team ke points +12.0 se change hue. Rank improved by 70 places.",
+        "watch_next_en": "Keep an eye on: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "watch_next_hi": "Dhyan rakhein: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "is_fallback": true
+      },
+      {
+        "ball": "19.4",
+        "innings": 1,
+        "event_id": "inn1_d125",
+        "is_hattrick": false,
+        "reasons": [
+          "six by V Shankar",
+          "points delta +8.0"
+        ],
+        "explanation_en": "Chhakka! Over 19.4 moved your team by +8.0 points. Rank improved.",
+        "explanation_hi": "Chhakka mara gaya! Team ke points +8.0 se change hue. Rank improved by 37 places.",
+        "watch_next_en": "Keep an eye on: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "watch_next_hi": "Dhyan rakhein: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "is_fallback": true
+      }
+    ]
+  },
+  "finisher_fan": {
+    "team_name": "Finisher Fan",
+    "captain": "AD Russell",
+    "vice_captain": "RK Singh",
+    "total_key_moments": 48,
+    "real_ai_calls": 0,
+    "fallback_calls": 48,
+    "final_points": 535.5,
+    "final_rank": 3346,
+    "elapsed_seconds": 0.33,
+    "sample_explanations": [
+      {
+        "ball": "1.2",
+        "innings": 1,
+        "event_id": "inn1_d8",
+        "is_hattrick": false,
+        "reasons": [
+          "points delta +5.0"
+        ],
+        "explanation_en": "Key moment: Over 1.2: WP Saha vs SN Thakur — 4 run(s). Your team's points changed by +5.0, rank improved.",
+        "explanation_hi": "Key moment: Over 1.2: WP Saha vs SN Thakur — 4 run(s). Team ke points +5.0 se change hue, rank improved.",
+        "watch_next_en": "Keep an eye on: WP Saha needs 25.0 more runs for 30-run bonus.",
+        "watch_next_hi": "Dhyan rakhein: WP Saha needs 25.0 more runs for 30-run bonus.",
+        "is_fallback": true
+      },
+      {
+        "ball": "1.7",
+        "innings": 1,
+        "event_id": "inn1_d13",
+        "is_hattrick": false,
+        "reasons": [
+          "points delta +5.0"
+        ],
+        "explanation_en": "Key moment: Over 1.7: Shubman Gill vs SN Thakur — 4 run(s). Your team's points changed by +5.0, rank dropped.",
+        "explanation_hi": "Key moment: Over 1.7: Shubman Gill vs SN Thakur — 4 run(s). Team ke points +5.0 se change hue, rank dropped.",
+        "watch_next_en": "Keep an eye on: WP Saha needs 24.0 more runs for 30-run bonus.",
+        "watch_next_hi": "Dhyan rakhein: WP Saha needs 24.0 more runs for 30-run bonus.",
+        "is_fallback": true
+      },
+      {
+        "ball": "16.1",
+        "innings": 2,
+        "event_id": "inn2_d98",
+        "is_hattrick": true,
+        "reasons": [
+          "wicket: AD Russell dismissed",
+          "hat-trick delivery"
+        ],
+        "explanation_en": "Hat-trick ball! Your team's points moved by +0.0 on this delivery. Your simulated rank dropped by 380 places.",
+        "explanation_hi": "Hat-trick ball! Aapki team ke points +0.0 se badal gaye. Aapki simulated rank dropped by 380 places.",
+        "watch_next_en": "Keep an eye on: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "watch_next_hi": "Dhyan rakhein: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "is_fallback": true
+      },
+      {
+        "ball": "16.2",
+        "innings": 2,
+        "event_id": "inn2_d99",
+        "is_hattrick": true,
+        "reasons": [
+          "wicket: SP Narine dismissed",
+          "hat-trick delivery"
+        ],
+        "explanation_en": "Hat-trick ball! Your team's points moved by -2.0 on this delivery. Your simulated rank dropped by 536 places.",
+        "explanation_hi": "Hat-trick ball! Aapki team ke points -2.0 se badal gaye. Aapki simulated rank dropped by 536 places.",
+        "watch_next_en": "Keep an eye on: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "watch_next_hi": "Dhyan rakhein: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "is_fallback": true
+      },
+      {
+        "ball": "19.2",
+        "innings": 2,
+        "event_id": "inn2_d119",
+        "is_hattrick": false,
+        "reasons": [
+          "six by RK Singh",
+          "captain/vc boundary: RK Singh",
+          "points delta +15.0"
+        ],
+        "explanation_en": "Chhakka! Over 19.2 moved your team by +15.0 points. Rank improved.",
+        "explanation_hi": "Chhakka mara gaya! Team ke points +15.0 se change hue. Rank improved by 420 places.",
+        "watch_next_en": "Keep an eye on: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "watch_next_hi": "Dhyan rakhein: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "is_fallback": true
+      },
+      {
+        "ball": "19.3",
+        "innings": 2,
+        "event_id": "inn2_d120",
+        "is_hattrick": false,
+        "reasons": [
+          "six by RK Singh",
+          "batting milestone: RK Singh reached 30 runs",
+          "captain/vc boundary: RK Singh",
+          "points delta +21.0"
+        ],
+        "explanation_en": "Chhakka! Over 19.3 moved your team by +21.0 points. Rank improved.",
+        "explanation_hi": "Chhakka mara gaya! Team ke points +21.0 se change hue. Rank improved by 565 places.",
+        "watch_next_en": "Keep an eye on: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "watch_next_hi": "Dhyan rakhein: WP Saha needs 13.0 more runs for 30-run bonus.",
+        "is_fallback": true
+      }
+    ]
+  }
+}

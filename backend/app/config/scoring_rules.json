@@ -1,0 +1,78 @@
+{
+  "batting": {
+    "run": 1,
+    "four_bonus": 1,
+    "six_bonus": 2,
+    "milestones": [
+      { "runs": 100, "bonus": 16 },
+      { "runs": 50, "bonus": 8 },
+      { "runs": 30, "bonus": 4 }
+    ],
+    "milestone_mode": "highest_only",
+    "duck_penalty": -2,
+    "duck_exempt_roles": ["Bowler"]
+  },
+  "strike_rate": {
+    "min_balls_faced": 10,
+    "exempt_roles": ["Bowler"],
+    "tiers": [
+      { "min_sr": 170.0, "max_sr": null, "points": 6 },
+      { "min_sr": 150.0, "max_sr": 169.999, "points": 4 },
+      { "min_sr": 130.0, "max_sr": 149.999, "points": 2 },
+      { "min_sr": 70.0, "max_sr": 79.999, "points": -2 },
+      { "min_sr": 60.0, "max_sr": 69.999, "points": -4 },
+      { "min_sr": 50.0, "max_sr": 59.999, "points": -6 }
+    ]
+  },
+  "bowling": {
+    "wicket": 25,
+    "bowled_lbw_bonus": 8,
+    "milestones": [
+      { "wickets": 5, "bonus": 16 },
+      { "wickets": 4, "bonus": 8 },
+      { "wickets": 3, "bonus": 4 }
+    ],
+    "milestones_stackable": false,
+    "maiden_over": 12
+  },
+  "economy_rate": {
+    "min_legal_balls": 12,
+    "tiers": [
+      { "min_er": null, "max_er": 4.9999, "points": 6 },
+      { "min_er": 5.0, "max_er": 5.9999, "points": 4 },
+      { "min_er": 6.0, "max_er": 7.0, "points": 2 },
+      { "min_er": 10.0, "max_er": 11.0, "points": -2 },
+      { "min_er": 11.0001, "max_er": 12.0, "points": -4 },
+      { "min_er": 12.0001, "max_er": null, "points": -6 }
+    ]
+  },
+  "fielding": {
+    "catch": 8,
+    "three_catches_bonus": 4,
+    "stumping": 12,
+    "runout_direct": 12,
+    "runout_indirect": 6
+  },
+  "other": {
+    "starting_xi": 4
+  },
+  "switches": {
+    "award_substitute_fielding_points": false,
+    "impact_player_starting_points": true
+  },
+  "multipliers": {
+    "captain": 2.0,
+    "vice_captain": 1.5
+  },
+  "team_rules": {
+    "team_size": 11,
+    "max_per_team": 7,
+    "role_limits": {
+      "Wicketkeeper": { "min": 1, "max": 4 },
+      "Batter": { "min": 3, "max": 6 },
+      "All-Rounder": { "min": 1, "max": 4 },
+      "Bowler": { "min": 3, "max": 6 }
+    }
+  }
+}
+

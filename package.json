@@ -1,0 +1,13 @@
+{
+  "name": "why-did-my-rank-drop",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Mobile-first cricket fantasy match replay and rank analysis web app",
+  "scripts": {
+    "dev:backend": "uv run uvicorn backend.app.main:app --reload --port 8000",
+    "dev:frontend": "npm run dev --prefix frontend",
+    "build:frontend": "npm run build --prefix frontend",
+    "test:backend": "pytest backend/tests"
+  }
+}
+
